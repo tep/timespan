@@ -1,5 +1,9 @@
 
-[![GoDoc](https://godoc.org/toolman.org/timespan?status.svg)](https://godoc.org/toolman.org/timespan) [![Go Report Card](https://goreportcard.com/badge/toolman.org/timespan)](https://goreportcard.com/report/toolman.org/timespan)
+# MOVED
+
+**Please Note**: This project has been moved under the toolman.org umbrella and is now available as package [`toolman.org/time/timespan`](https://github.com/toolmanorg/time-timespan).
+
+Please update your references accordingly.
 
 # timespan
 `import "toolman.org/timespan"`
